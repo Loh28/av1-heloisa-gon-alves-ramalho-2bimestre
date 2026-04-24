@@ -5,14 +5,14 @@ body{
 }
 
 header{
-    background-color: #ffffff;
+    background-color: #222;
     color: write;
     padding: 20px;
     text-align: center;
 }
 
 nav{
-    background-color: #faffd1;
+    background-color: #444;
     padding: 10px;
     text-align: center;
 }
@@ -27,17 +27,17 @@ main{
     padding: 20px;
 }
 #sobre{
-    background-color: rgb(201, 249, 255);
+    background-color: aquamarine;
 }
 
 .bg-color{
-    background-color: rgb(176, 217, 255);
+    background-color: bisque;
 }
 
 section{
     margin-bottom: 30px;
     padding: 15px;
-    border: 10px solid #949494;
+    border: 10px solid #ccc;
 }
 footer{
     background-color: #222;
