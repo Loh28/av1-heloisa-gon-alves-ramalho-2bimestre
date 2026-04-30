@@ -12,7 +12,7 @@ header{
 }
 
 nav{
-    background-color: #faffd1;
+    background-color: hsl(194, 100%, 84%);
     padding: 10px;
     text-align: center;
 }
@@ -27,17 +27,17 @@ main{
     padding: 20px;
 }
 #sobre{
-    background-color: rgb(201, 249, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 .bg-color{
-    background-color: rgb(176, 217, 255);
+    background-color: rgb(255, 255, 255);
 }
 
 section{
     margin-bottom: 30px;
     padding: 15px;
-    border: 10px solid #949494;
+    border: 10px solid #ffe1f4;
 }
 footer{
     background-color: #222;
