@@ -1,11 +1,11 @@
 body{
  font-family: Arial, Helvetica, sans-serif;
- mangin: 0;
+ margin: 0;
  padding: 0;
 }
 
 header{
-    background-color: #ffffff;
+    background-color: hsl(180, 63%, 43%);
     color: write;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ main{
     padding: 20px;
 }
 #sobre{
-    background-color: rgb(255, 255, 255);
+    background-color: hsl(0, 0%, 100%);
 }
 
 .bg-color{
@@ -37,7 +37,13 @@ main{
 section{
     margin-bottom: 30px;
     padding: 15px;
-    border: 10px solid #ffe1f4;
+    border: 10px solid hsl(322, 100%, 94%);
+}
+.secao1{
+  {background-color: rgb(1, 21, 48);}
+  border: 10px solid hsl(322, 100%, 94%);
+
+
 }
 footer{
     background-color: #222;
