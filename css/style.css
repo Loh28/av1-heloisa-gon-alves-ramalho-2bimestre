@@ -25,6 +25,7 @@ nav a {
 
 main{
     padding: 20px;
+    background-color: hsl(0, 0%, 100%);
 }
 #sobre{
     background-color: hsl(0, 0%, 100%);
@@ -34,19 +35,37 @@ main{
     background-color: rgb(255, 255, 255);
 }
 
-section{
+.section0{
     margin-bottom: 30px;
     padding: 15px;
     border: 10px solid hsl(322, 100%, 94%);
 }
 .secao1{
-  {background-color: rgb(1, 21, 48);}
-  border: 10px solid hsl(322, 100%, 94%);
+  background-color: rgb(1, 21, 48);
+  border: 10px solid hsl(199, 80%, 40%);
 
 
 }
+.secao2{
+  background-color: hsl(180, 63%, 43%);
+
+}
+.header2{
+      background-color: hsl(180, 41%, 31%);
+    color: write;
+    padding: 20px;
+    text-align: center;
+}
+.header3{
+    color: write;
+    padding: 20px;
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+
+}
+
 footer{
-    background-color: #222;
+    background-color: #f8bbe6;
     color: white;
     text-align: center;
     padding: 15px;
