@@ -6,7 +6,6 @@ body{
 
 header{
     background-color: hsl(180, 63%, 43%);
-    color: write;
     padding: 20px;
     text-align: center;
 }
@@ -43,6 +42,7 @@ main{
 .secao1{
   background-color: rgb(1, 21, 48);
   border: 10px solid hsl(199, 80%, 40%);
+  padding: 15px;
 
 
 }
@@ -69,4 +69,32 @@ footer{
     color: white;
     text-align: center;
     padding: 15px;
+}
+.item-galeria{
+width: 30%;
+display: inline-block;
+margin: 10px;
+text-align:center;
+vertical-align: top;
+}
+
+.item-galeria img{
+    width: 50%;
+    height: 200px;
+    object-fit: contain;
+
+}
+.item-galeria p{
+
+}
+.card{
+
+}
+.card img{
+width: 100%;
+height: 300px;
+object-fit: contain;
+}
+.card span{
+
 }
