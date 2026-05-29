@@ -6,6 +6,7 @@ body{
 
 header{
     background-color: hsl(180, 63%, 43%);
+    color:white;
     padding: 20px;
     text-align: center;
 }
@@ -19,8 +20,40 @@ nav{
 nav a {
     color: write;
     text-decoration: none;
-    margin: 0% 10px;
+    margin: 10% 10px;
 }
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 20px auto;
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+.galeria{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item-galeria{
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.item-galeria img{
+    width: 100%;
+    border-radius: 10px;
+}
+
 
 main{
     padding: 20px;
